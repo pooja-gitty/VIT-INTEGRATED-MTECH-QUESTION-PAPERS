@@ -1,11 +1,11 @@
 # VIT-INTEGRATED-MTECH-QUESTION-PAPERS
-The list of the subjects available in this repo
-Advanced Computer Architecture
-Advanced Data Analytics
-Advanced Data Compression Techniques
-Advanced Data Visualization Techniques
-Advanced Predictive Analytics
-Advances in Pervasice Computing
+The list of the subjects available in this repo  
+Advanced Computer Architecture  
+Advanced Data Analytics  
+Advanced Data Compression Techniques  
+Advanced Data Visualization Techniques  
+Advanced Predictive Analytics  
+Advances in Pervasice Computing  
 Advances in Web Technologies
 Applied Cryotography and Network Security
 Artificial Intelligence and Expert Systems

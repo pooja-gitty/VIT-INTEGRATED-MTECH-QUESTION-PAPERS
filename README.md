@@ -57,7 +57,7 @@ This repository includes question papers for the following subjects (sorted alph
 ## 🤝 Contribute
 
 Found missing papers? Want to help future students?  
-Feel free to raise a pull request or drop the files in the [Issues](https://github.com/your-username/your-repo/issues) section. Let’s make this the go-to repo for all VITians! 💪
+Feel free to raise a pull request or drop the files in the [Issues](https://github.com/pooja-gitty/VIT-QUESTION-PAPERS.git) section. 💪
 
 ---
 
